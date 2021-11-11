@@ -2,9 +2,10 @@ const Header = () => {
     return ( 
         <header class="vertical-center">
             <div>
-            <h1><a href="index.html">Monument</a></h1>
+                <h1><a href="">Monument</a></h1>
+                <h2>A Lifestyle Magazine</h2>
             </div>
-        </header>
+            </header>
     );
 }
  
