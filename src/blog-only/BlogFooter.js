@@ -1,4 +1,4 @@
-const Footer = () => {
+const BlogFooter = () => {
     return ( 
         <footer>
         <div class="wrap">
@@ -16,4 +16,4 @@ const Footer = () => {
     );
 }
 
-export default Footer;
+export default BlogFooter;

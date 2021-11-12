@@ -14,7 +14,7 @@ const Sidebar = () => {
                 <li><a href="">Issue Fifteen &mdash; Carnivals</a></li>
                 <li><a href="">Issue Fourteen &mdash; Gatherings</a></li>
             </ul>
-            </aside>
+        </aside>
     );
 }
 
