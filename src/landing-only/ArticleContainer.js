@@ -1,3 +1,4 @@
+import ArticleList from './ArticleList';
 
 class ArticleContainer extends React.Component {
 
@@ -28,9 +29,9 @@ class ArticleContainer extends React.Component {
     render() {
     return (
         <div>
-        <ArticleList 
-            articles={this.state.articles}
-        />
+            <ArticleList 
+                articles={this.state.articles}
+            />
         </div>
     )
     }
