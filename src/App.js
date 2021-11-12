@@ -28,8 +28,10 @@ function App() {
       {/* blog page */}
       <NavBar />
       <BlogHeader />
-      <BlogArticle />
-      <Sidebar />
+      <div className="wrap grid-wrapper">
+        <BlogArticle />
+        <Sidebar />
+      </div>
       <BlogFooter />
     </div>
   );
