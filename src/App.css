@@ -398,8 +398,8 @@ Media Queries
 /* ----------------------------------------
 Header
 ------------------------------------------- */
-header {
-	/* background-image: url('../public/home_header_bg.jpg'); */
+#landingHeader {
+	background-image: url('./home_header_bg.jpg');
 	background-attachment: fixed;
 	height: 100vh;
 }
@@ -468,7 +468,7 @@ header h2 {
 }
 
 header {
-	/* background-image: url('../public/blog_header_bg.jpg'); */
+	background-image: url('./blog_header_bg.jpg');
 	background-size: cover;
 	background-position: center;
 
